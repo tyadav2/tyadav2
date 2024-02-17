@@ -20,7 +20,7 @@
 ### 🚀 Projects
 
 #### 1. [Color Detection using OpenCV](https://github.com/tyadav2/Color-Detection-using-OpenCV)
-Inspired from Cloak of Invisibility in Harry Potter
+- Inspired from Cloak of Invisibility in Harry Potter
 
 #### 2. [Electric Power](https://github.com/tyadav2/Electric-Power)
 An interactive dashboard that allows users to explore and analyze energy generation data for different states in the United States over a span of several years.
