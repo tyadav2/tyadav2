@@ -1,6 +1,6 @@
 ### Welcome to my GitHub! Here, you'll find a glimpse of my skills, projects, and interests.
 
-## 🌐 Skills
+#### 🌐 Skills
 
 - **Programming Languages:** Python, R, JavaScript, Java, C++, C#
 - **Web Development:** HTML, CSS, XML
@@ -8,16 +8,16 @@
 - **Data Tools:** SQL, Tableau, PowerBi
 - **Other:** Git, GitHub
 
-## 🎓 Education
+#### 🎓 Education
 
 - **Degree:** Bachelors in Computer Science
 - **University:** University of Illinois at Chicago
   
-## 📧 Contact
+#### 📧 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/yadav-tanya5/)
 
-## 🚀 Projects
+#### 🚀 Projects
 
 ### 1. [Color Detection using OpenCV](https://github.com/tyadav2/Color-Detection-using-OpenCV)
 Inspired from Cloak of Invisibility in Harry Potter
