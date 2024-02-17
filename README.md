@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Welcome to my GitHub! Here, you'll find a glimpse of my skills, projects, and interests.
+### Welcome to my GitHub! Here, you'll find a glimpse of my skills, projects, and interests.
 
 ## 🌐 Skills
 
