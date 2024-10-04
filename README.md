@@ -2,9 +2,9 @@
 
 ### 🌐 Skills
 
-- **Programming Languages:** Python, R, JavaScript, Java, C++, C#
+- **Programming Languages:** Python, MySQL R, JavaScript, Java, C++, C#
 - **Web Development:** HTML, CSS, XML
-- **Technology/Environment:** Visual Studio, Android Studio, AzureDevOps, BrowserStack, Eclipse, IntelliJ, Postman, Selenium(Java), Cucumber, TestNG, Linux(Ubuntu/Putty), MySQL
+- **Technology/Environment:**  Airflow, Snowflake, Visual Studio, Android Studio, AzureDevOps, BrowserStack, Eclipse, IntelliJ, Postman, Selenium(Java), Cucumber, TestNG, Linux(Ubuntu/Putty)
 - **Data Tools:** SQL, Tableau, PowerBi
 - **Other:** Git, GitHub
 
@@ -12,6 +12,8 @@
 
 - **Degree:** Bachelors in Computer Science
 - **University:** University of Illinois at Chicago
+- **Degree:** Masters in Data Analytics
+- **University:** San Jose State University
   
 ### 📧 Contact
 
