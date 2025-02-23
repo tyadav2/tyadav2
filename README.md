@@ -2,16 +2,17 @@
 
 ### 🌐 Skills
 
-- **Programming Languages:** Python, MySQL R, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, XML
-- **Technology/Environment:**  Airflow, Snowflake, Spark, Docker, GCP, Kafka, AzureDevOps, BrowserStack, Postman, Selenium(Java), Cucumber, TestNG, Linux(Ubuntu/Putty)
-- **Data Tools:** SQL, Tableau, PowerBi
+- **Programming Languages:** Python, SQL ,R, Java, C++
+- **Web Development:** HTML, CSS, XML, JavaScript, NodeJs, Express, React
+- **Technology/Environment:**  Airflow, Snowflake, Spark, Docker, GCP, Kafka, AzureDevOps, BrowserStack, Postman, Selenium(Java), Cucumber, TestNG, Linux(Ubuntu/Putty), Hadoop, Spark
+- **Data Visualization Tools:** SQL, Tableau, PowerBi
 - **Other:** Git, GitHub
 
 ### 🎓 Education
 
 - **Degree:** Masters in Data Analytics
 - **University:** San Jose State University
+
 - **Degree:** Bachelors in Computer Science
 - **University:** University of Illinois at Chicago
   
