@@ -3,7 +3,7 @@
 ### 🌐 Skills
 
 - **Programming Languages:** Python, SQL ,R, Java, C++
-- **Web Development:** HTML, CSS, XML, JavaScript, NodeJs, Express, React
+- **Web Development:** JavaScript, NodeJs, Express, React, Redux, HTML, CSS, XML
 - **Technology/Environment:**  Airflow, Snowflake, Spark, Docker, GCP, Kafka, AzureDevOps, BrowserStack, Postman, Selenium(Java), Cucumber, TestNG, Linux(Ubuntu/Putty), Hadoop, Spark
 - **Data Visualization Tools:** SQL, Tableau, PowerBi
 - **Other:** Git, GitHub
