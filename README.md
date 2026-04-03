@@ -10,7 +10,7 @@
 
 ### 🎓 Education
 
-- **Degree:** Masters in Data Intelligence
+- **Degree:** Masters in Data Science
 - **University:** San Jose State University
 
 - **Degree:** Bachelors in Computer Science
