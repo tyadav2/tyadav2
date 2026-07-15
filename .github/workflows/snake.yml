@@ -18,8 +18,9 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#ff69b4&color_dots=#fff0f5,#ffd1dc,#ffb6c9,#ff85a2,#ff4f7b
-
+            dist/github-snake.svg?color_snake=#7c6af7&color_dots=#ebedf0,#d7cdfc,#b9abf7,#9886ec,#7c6af7
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#b8a9ff&color_dots=#161b22,#29234a,#453b78,#6a5baa,#b8a9ff
+            
       - name: Publish animation
         uses: crazy-max/ghaction-github-pages@v4
         with:
