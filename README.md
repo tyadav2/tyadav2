@@ -1,4 +1,4 @@
-# Hi, I'm Tanya Yadav ᓚ₍ ^. .^₎
+# Hi, I'm Tanya ᓚ₍ ^. .^₎
 
 **Data Scientist @ Pervaziv AI** · *MS Data Science @ San José State University*
 
