@@ -1,37 +1,43 @@
-## Welcome to my GitHub! Here, you'll find a glimpse of my skills, projects, and interests.
+# Hi, I'm Tanya Yadav ᓚ₍ ^. .^₎
 
-### 🌐 Skills
+**Data Scientist @ Pervaziv AI** · *MS Data Science @ San José State University*
 
-- **Programming Languages:** Python, SQL ,R, Java, C++
-- **Web Development:** JavaScript, NodeJs, Express, React, Redux, HTML, CSS, XML
-- **Technology/Environment:**  Airflow, Snowflake, Spark, Docker, GCP, Kafka, AzureDevOps, BrowserStack, Postman, Selenium(Java), Cucumber, TestNG, Linux(Ubuntu/Putty), Hadoop, Spark
-- **Data Visualization Tools:** SQL, Tableau, PowerBi
-- **Other:** Git, GitHub
+> I build AI systems that are useful, privacy-aware, and a little harder to trick.
 
-### 🎓 Education
+Working around **LLMs**, **AI security**, and **developer tools**  
+because “it worked in the demo” is not a security strategy.
 
-- **Degree:** Masters in Data Science
-- **University:** San Jose State University
+[LinkedIn](https://www.linkedin.com/in/yadav-tanya5/) · [Google Scholar](https://scholar.google.com/citations?user=VVn3MqEAAAAJ&hl=en&oi=ao)
 
-- **Degree:** Bachelors in Computer Science
-- **University:** University of Illinois at Chicago
-  
-### 📧 Contact
+---
 
-- [LinkedIn](https://www.linkedin.com/in/yadav-tanya5/)
+```text
+ /\_/\
+( o.o )   currently teaching machines to be helpful
+ > ^ <    and asking them politely not to leak secrets
+```
 
+### Things I care about
 
-<!--
-**tyadav2/tyadav2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Secure, privacy-aware AI systems
+- LLM agents, prompt engineering, and trustworthy automation
+- Cybersecurity research and practical developer security
+- Cats, cute things, and well-designed systems
 
-Here are some ideas to get you started:
+### Research, casually
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve authored/co-authored a few research publications across AI, ML, data science, and security-adjacent systems— [take a look](https://scholar.google.com/citations?user=VVn3MqEAAAAJ&hl=en&oi=ao) if you’re curious; they were powered by equal parts research, coffee, and stubbornness.
+
+<sub>Apparently I write papers when I am not asking models why they did that.</sub>
+
+---
+
+<sub>🌸 building useful things, threat-modeling them, and petting cats in between</sub>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tyadav2/tyadav2/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tyadav2/tyadav2/output/github-snake.svg" />
+  <img alt="A lavender contribution snake exploring Tanya's GitHub garden" src="https://raw.githubusercontent.com/tyadav2/tyadav2/output/github-snake.svg" />
+</picture>
