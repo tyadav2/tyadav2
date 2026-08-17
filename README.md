@@ -4,8 +4,7 @@
 
 > I build AI systems that are useful, privacy-aware, and a little harder to trick.
 
-Working around **LLMs**, **AI security**, and **developer tools**  
-because “it worked in the demo” is not a security strategy.
+Working around **LLMs**, **AI security**, and **developer tools**  because “it worked in the demo” is not a security strategy.
 
 [LinkedIn](https://www.linkedin.com/in/yadav-tanya5/) · [Google Scholar](https://scholar.google.com/citations?user=VVn3MqEAAAAJ&hl=en&oi=ao)
 
