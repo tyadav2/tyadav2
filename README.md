@@ -1,6 +1,6 @@
 # Hi, I'm Tanya ᓚ₍ ^. .^₎
 
-**Data Scientist @ Pervaziv AI** · *MS Data Science @ San José State University*
+**Software(AI/ML) Engineer @ Pervaziv AI** · *MS Data Science @ San José State University*
 
 > I build AI systems that are useful, privacy-aware, and a little harder to trick.
 
